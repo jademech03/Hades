@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="EN"> 
+<head>
+<title>Hades Page One</title>
+</head>
+<body>
+
+<h1 style="color:white;background-color:red;text-align:center">Hades, a breakthrough in gaming.</h1>
+<img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/h/hades-switch/hero" width="600" height="337" alt="Hades title card">
+<p><u> Hades </u> is a roguelike indie video game developed by <u> Supergiant Games.</u> You play as Zagreus, the son of the mythological Greek god Hades. Your objective game is to get yourself <i> (Zagreus) </i> out of the underworld with gifts you receive from the gods on Olympus. To explain in simple terms is a <a href="https://en.wikipedia.org/wiki/Roguelike"> roguelike</a> game that includes a <a href="https://en.wikipedia.org/wiki/Dungeon_crawl"> dungeon crawl</a>, usually though procedurally generated levels/rooms, often including critical elements such as <a href="https://en.wikipedia.org/wiki/Permadeath"> permadeath</a>, resource management, and <a href="https://en.wikipedia.org/wiki/Hack_and_slash"> hack and slash-based gameplay. </a> This game excels in its ability to tell a captivating and emotion-provoking story. With fantastic art, voice-acting, and a dedicated development team, it's no wonder it surpassed <b> over a million copies </b> in a little over a year since its release. </p>
+<p>  <u> Supergiant Games </u>  is a San Fransisco-based video game development company. It was founded in 2009 by Amir Rao and Gavin Simon. While they have been in the video game industry for years, with titles such as <a href="https://store.steampowered.com/app/107100/Bastion/"> Bastion </a>, <a href="https://store.steampowered.com/app/237930/Transistor/" > Transistor </a>, and <a href="https://store.steampowered.com/app/462770/Pyre/"> Pyre. </a>the success of their 2020 release Hades has surpassed the popularity of all their former games. Hades has been nominated for 40 awards and has won 19 of them, some of them including <i>"Best Indie Game"</i> and <i>"Critic's Choice"</i> at The 2020 Golden Joystick Awards, <i>"Outstanding Achievement in Game Design"</i> from the 24th Annual D.I.C.E Awards, and <i>"Best audio"</i> and <i>"Best Design"</i> From the 21st Game Developers Choice Awards. </p>
+<img src="https://media.tenor.com/PjWAeOj_JuAAAAAC/hades.gif" width="597" height="336" alt="Supergiant games logo">
+<h2 style="color:white;background-color:red;text-align:center"> Story</h2>
+<p> I'm not going to go too in-depth about the story so I can prevent spoilers, but I'll tell a little bit to show just how unique and innovative this game is. Most of the game takes place in the underworld; you start in Tartarus, where you reside in The House of <a href="https://hades.fandom.com/wiki/House_of_Hades"> House of Hades </a> alongside other cationic gods. Zagreus has already decided that he no longer wants to live in the underworld, under his dad's strict rule, and you follow his journey trying to escape the grueling labyrinth of enemies that is the underworld. Each time you die and rise from the pool of Styx, back at The House of Hades, a piece of a bigger story is revealed to you. 
+<img src="https://media.tenor.com/KuSwFWSaQr0AAAAC/hades-death-graphics.gif" alt="hades-death-graphics">
+
+<p> To learn more about design, and the unique approach Hades takes to the rougelike genre, check out the next page.
+    <button onclick="second-page">Next Page</button> </p>
+</body>
+</html>
