@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="EN"> 
 <head>
+ <meta charset="utf-8">
 <title>Hades Page One</title>
 </head>
 <body>
@@ -14,7 +15,9 @@
 <p> I'm not going to go too in-depth about the story so I can prevent spoilers, but I'll tell a little bit to show just how unique and innovative this game is. Most of the game takes place in the underworld; you start in Tartarus, where you reside in The House of <a href="https://hades.fandom.com/wiki/House_of_Hades"> House of Hades </a> alongside other cationic gods. Zagreus has already decided that he no longer wants to live in the underworld, under his dad's strict rule, and you follow his journey trying to escape the grueling labyrinth of enemies that is the underworld. Each time you die and rise from the pool of Styx, back at The House of Hades, a piece of a bigger story is revealed to you. 
 <img src="https://media.tenor.com/KuSwFWSaQr0AAAAC/hades-death-graphics.gif" alt="hades-death-graphics">
 
-<p> To learn more about design, and the unique approach Hades takes to the rougelike genre, check out the next page.
-    <button onclick="second-page">Next Page</button> </p>
+<p> To learn more about design, and the unique approach Hades takes to the rougelike genre, check out the next page. v </p>
+    <form action="second-page.html">
+        <button type="submit">Next Page</button>
+    </form>
 </body>
 </html>
