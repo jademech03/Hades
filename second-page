@@ -1,6 +1,7 @@
  <!DOCTYPE html>
 <html lang="EN">
 <head>
+<meta charset="utf-8">
 <title>Hades Page 2</title>
 </head>
 <body>
@@ -18,5 +19,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WzJ_UhPptBQ" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p> Here's the <a href="https://store.steampowered.com/app/1145360/Hades/"> Steam link </a>  to purchase Hades for PC, but there's many other platforms and shops you can get it from :D
 <p> Back to index</p>
-<button onclick="index">Next Page</button> 
-</body>  yay
+<form action="index.html">
+    <button type="submit">Home Page</button>
+
+</form>
+</body>  
